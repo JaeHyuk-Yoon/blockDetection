@@ -1,2 +1,2 @@
 # blcokDetection
-blockDetection using Raspberry Pi 4
+blockDetection using Jetson Nano
