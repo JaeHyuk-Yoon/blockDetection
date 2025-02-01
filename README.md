@@ -6,11 +6,9 @@
 >
 > Author : 김희진, 윤재혁, 권순각
 >
-><p align="center">
-    ><img src="https://github.com/user-attachments/assets/c7cb440c-4776-4445-82ab-c1211239f8d8" width="400px"/>
-    ><br>
-    ><sup> figure. Example of T-cross recognition</sup>
-></p>
+><img src="https://github.com/user-attachments/assets/c7cb440c-4776-4445-82ab-c1211239f8d8" width="400px"/>
+><br>
+><sup> figure. Example of T-cross recognition</sup>
 
 ## Project Overview
 >- **Project Name** : YOLO 기반 점자블록 검출을 통한 시각장애인 이동 보조 장치
@@ -18,11 +16,9 @@
 >- **Project Language** : Python
 
 ## System Architecture
-><p align="center">
-    ><img src="https://github.com/user-attachments/assets/b6ee253a-1a24-43e0-9885-e317b72b5d96" width="600px"/>
-    ><br>
-    ><sup> figure. Example of T-cross recognition</sup>
-></p>
+><img src="https://github.com/user-attachments/assets/b6ee253a-1a24-43e0-9885-e317b72b5d96" width="600px"/>
+><br>
+><sup> figure. Example of T-cross recognition</sup>
 >
 >- **Embedded Device** : 임베디드 시스템은 NVIDIA사의 Jetson Nano 보드에서 개발 되었으며, 카메라는 Logitech Webcam C170를 사용하였습니다.
 >- **Model for block detection** : YOLOv5 및 YOLOv8을 기반으로 개발되었으며, 임베디드 시스템의 한정된 자원에서 효율적인 프레임 처리 성능(FPS; Frame Per Second)을 보이기 위해 TensorRT 엔진을 적용합니다.
