@@ -34,5 +34,22 @@
 >- 점자 블록 구성에 따른 경로 인식
 >- 인식된 경로 음성 출력
 
+## Quick Start Overview
+```
+# Jetson nano
+git clone https://github.com/JaeHyuk-Yoon/blockDetection.git  # clone
+cd yolov8asyolov5
+pip install -r requirements.txt  # install
+```
+```
+:: Video Sample
+python asv8detect.py --weights ./../model/v8_n_416.pt --source ./../sample/forTestVideo.mp4  --img 416 --is-yolov8
+```
+```
+:: Run with webcam
+python asv8detect.py --weights ./../model/v8_n_416.pt --source ./../sample/forTestVideo.mp4  --img 416 --is-yolov8
+```
+
+
 ## Project Demo
 > <a href="https://www.youtube.com/watch?v=CzOFpBjnR4k">**딥러닝 시각장애인 이동 보조 시스템 데모 영상**</a>
