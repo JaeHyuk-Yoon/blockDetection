@@ -28,6 +28,21 @@
 >>|-------------|-------------------------------------------------|
 >>| **Embedded Device** | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
 >>| **Model Development**  | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+>>
+>>### 🛠 Detail Environment
+>>| Category         | Description |
+>>|-------------|------------------|
+>>| **OS** | Ubuntu 20.04.6 LTS |
+>>| **Python** | 3.8.10 |
+>>| **Pytorch** | 1.11.0a0+gitbc2c6ed |
+>>| **Torchvision** | 0.9.0 |
+>>| **OpenCV** | 4.6.0 |
+>>| **Numpy** | 1.22.4 |
+>>| **CUDA** | 10.2 |
+>>| **cuDNN** | 8.2.1.32 |
+>>| **TensorRT** | 8.2.1.8 |
+>>| **L4T** | 32.7.3 |
+>>| **Jetpack** | 4.6.3 |
 
 ## Project goal
 >- 15 FPS 이상으로 점자 블록 인식
